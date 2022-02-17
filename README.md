@@ -1,4 +1,4 @@
-### Test task for the project `Telemetry System with Azul`
+### Test task for the project `Telemetry System with Azul` [![build](https://github.com/mandelshtamd/telemetry-system-test-task/actions/workflows/gradle.yml/badge.svg)](https://github.com/mandelshtamd/telemetry-system-test-task/actions/workflows/gradle.yml)
 
 #### Task
 Java program’s behavior may vary depending on the order of the classpath arguments in the command line that launches it.
