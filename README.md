@@ -7,7 +7,7 @@ Java program’s behavior may vary depending on the order of the classpath argum
 The simplest way to demonstrate that the order of the classpath arguments is important is when we choose 
 main class via -classpath arguments.
 
-1. Run `gradlew assemble` to compile .class files and build .jar file
+1. Run `gradlew assemble` to compile .class files and build .jar archive
 2. In the case when we specify the Main class in the first package as the first argument, 
    we will see one behavior  
 Example: `java -cp build/libs/telemetry-system-test-task-1.0-SNAPSHOT.jar first.Main second.Main`  
